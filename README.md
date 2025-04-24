@@ -1,7 +1,7 @@
 # Crowdcube: A Crowdfunding Platform
 
 ## Live Website:
-[**Live Site Link**](https://crowd-funding-applicatio-5b03c.web.app/) *(Insert live site link here)*
+[**Live Site Link**](https://crowd-funding-applicatio-5b03c.web.app/) 
 
 ## Description:
 Crowdcube is a dynamic crowdfunding platform where users can create campaigns, contribute donations, and support various causes such as personal needs, creative ideas, and business startups. Users can create, view, and donate to ongoing campaigns, with a seamless, responsive interface ensuring an engaging experience on both mobile and desktop devices.
